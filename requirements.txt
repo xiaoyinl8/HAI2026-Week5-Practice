@@ -1,0 +1,7 @@
+openai
+pydantic
+python-dotenv
+pandas
+numpy
+streamlit
+altair
